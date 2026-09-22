@@ -4,7 +4,7 @@ A simple explanation of google dorks, its uses and collection of best google dor
 
 ## Some of our useful products for OSINT loves -
 [OSINTverse](https://osintverse.com) is an OSINT ecosystem, Your go-to place for anything related to OSINT — tools in [SearchIn](https://osintverse.com/searchin), blogs and webinars on the Hub, and the community in the open. 
-
+SearchIn is a fully fledged investigation workspace — not a bookmark list. Start from an identifier, query every provider we integrate in one UI, compare structured results, and keep the trail in a case you can reopen. Prepaid credits. Your wallet or a shared team wallet.
 
 
 ## Authors
