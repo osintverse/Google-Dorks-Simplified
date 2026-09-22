@@ -3,7 +3,7 @@
 A simple explanation of google dorks, its uses and collection of best google dorks to get the best and desired information.
 
 ## Some of our useful products for OSINT loves -
-OSINTverse is an OSINT ecosystem, Your go-to place for anything related to OSINT — tools in SearchIn, blogs and webinars on the Hub, and the community in the open. 
+[OSINTverse](https://osintverse.com) is an OSINT ecosystem, Your go-to place for anything related to OSINT — tools in [SearchIn](https://osintverse.com/searchin), blogs and webinars on the Hub, and the community in the open. 
 
 
 
